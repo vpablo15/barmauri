@@ -1,0 +1,12 @@
+git init - iniciar git
+git branch - muestra en que rama estoy
+git help - ayuda sobre comandos
+git status - estado del repositorio
+
+commit son puntos de guardado
+
+git config --global user.name ""
+git config --global user.mail ""
+
+git add . agregar todos los archivos
+git reset . saca los archivos
