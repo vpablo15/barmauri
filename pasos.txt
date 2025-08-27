@@ -10,3 +10,10 @@ git config --global user.mail ""
 
 git add . agregar todos los archivos
 git reset . saca los archivos
+git commit -m "algo" crear punto de guardado con un titulo
+git log - ver puntos de guardado
+git checkout id_de_commit - para ir a un commit especifico
+git checkout rama - volver al ultimo commit
+git clone linkdelrepo
+git push -u origin master o git push
+git pull - traerse los cambios nuevos (siempre tirar esto al principio)
